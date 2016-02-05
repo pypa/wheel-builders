@@ -2,6 +2,7 @@ wheel-builders
 ==============
 
 Mailing list:
+
 * wheel-builders@python.org
 * https://mail.python.org/mailman/listinfo/wheel-builders
 
@@ -25,6 +26,7 @@ have a more narrow focus on the practicalities of getting individual
 packages working and writing code. Newbie questions welcome!
 
 Some example goals:
+
 * Improving the tooling for building standalone wheels, like
   "delocate" and "auditwheel". (This is the home list for those
   packages.)
