@@ -34,7 +34,7 @@ Some example goals:
   dependencies.
 * Writing documentation for package developers on how to use all this
   stuff (perhaps in the form of a new chapter for
-  `packaging.python.org <https://packaging.python.org/>`_
+  `packaging.python.org <https://packaging.python.org/>`_)
 * Developing better tools for automated builds (e.g., sharing scripts
   for getting free CI services to build our wheels for us).
 
