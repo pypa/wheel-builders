@@ -46,8 +46,7 @@ in particular we have `a wiki
 Code of Conduct
 ===============
 
-Everyone interacting in the manylinux project's codebases, issue
-trackers, chat rooms, and mailing lists is expected to follow the
-`PyPA Code of Conduct`_.
+Everyone interacting on the wheel-builders mailing list and associated
+areas is expected to follow the `PyPA Code of Conduct`_.
 
 .. _PyPA Code of Conduct: https://www.pypa.io/en/latest/code-of-conduct/
