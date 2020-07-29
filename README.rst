@@ -49,4 +49,4 @@ Code of Conduct
 Everyone interacting on the wheel-builders mailing list and associated
 areas is expected to follow the `PSF Code of Conduct`_.
 
-.. _PyPA Code of Conduct: https://www.pypa.io/en/latest/code-of-conduct/
+.. PSF Code of Conduct: https://www.pypa.io/en/latest/code-of-conduct/
