@@ -251,6 +251,12 @@ out that these are all unnecessary for our purposes, and are too
 platform-specific to be useful in any case, so we ignore them and
 stick to the basics: search paths and unique library names.
 
+[EDIT, 5 years later: it turns out I *dramatically* underestimated
+how messy macOS makes this. It's still doable, just way more complicated
+-- for details see
+https://discuss.python.org/t/native-dependencies-in-other-wheels-how-i-do-it-but-maybe-we-can-standardize-something/23913/11
+]
+
 
 Other niceties
 ..............
